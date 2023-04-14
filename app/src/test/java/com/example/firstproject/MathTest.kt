@@ -10,6 +10,7 @@ class MathTest {
         assertEquals(2, 1+1)
     }
 
+    //Тест для функции деления
     @Test
     fun substractTest()
     {
