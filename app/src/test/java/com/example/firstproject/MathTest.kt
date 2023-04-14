@@ -9,4 +9,10 @@ class MathTest {
     {
         assertEquals(2, 1+1)
     }
+
+    @Test
+    fun multiplyTest()
+    {
+        assertEquals(4, 2*2)
+    }
 }
