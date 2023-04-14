@@ -9,4 +9,10 @@ class MathTest {
     {
         assertEquals(2, 1+1)
     }
+
+    @Test
+    fun substractTest()
+    {
+        assertEquals(2, 4/2)
+    }
 }
